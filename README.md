@@ -1,5 +1,5 @@
 # Adopt Don't Shop
-BE Mod 2 Week 1 Solo Project
+BE Mod 2 Week 1 Solo Project to create a adoption web application. 
 
 ## Learning Goals
 
